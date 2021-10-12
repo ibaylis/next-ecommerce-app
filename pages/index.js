@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Ian's Store
+          The Baylis Code&apos;s Store
         </h1>
 
         <p className={styles.description}>
